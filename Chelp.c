@@ -46,3 +46,8 @@ int main(void) {
   printf("Your score is %d", score);
 
 }
+
+/* 
+compile: gcc Chelp.c -o Chelp
+run: ./Chelp
+*/
